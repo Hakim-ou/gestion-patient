@@ -1,0 +1,30 @@
+choosedTooth;operation;day;dayNum;month;hourOfday;duration;date
+
+Second Molar;Third;Monday;24;August;15h40;1800sec;2020-08-24T15:40:53.506162
+Third Molar;Third;Monday;24;August;16h8;1800sec;2020-08-24T16:08:33.405010
+First Molar;Second;Monday;24;August;16h9;7sec;2020-08-24T16:10:06.397336
+Canine;Second;Monday;24;August;16h11;4sec;2020-08-24T16:11:05.822150
+Third Molar;Third;Monday;24;August;16h20;1800sec;2020-08-24T16:20:57.021189
+Third Molar;Third;Monday;24;August;16h23;6sec;2020-08-24T16:23:26.338466
+Second Molar;Third;Tuesday;25;August;20h50;4sec;2020-08-25T20:50:30.514801
+Third Molar;Third;Tuesday;25;August;21h0;2sec;2020-08-25T21:00:52.860520
+Second Molar;First;Tuesday;25;August;21h14;5sec;2020-08-25T21:14:55.692278
+First Molar;First;Tuesday;25;August;21h32;4sec;2020-08-25T21:32:58.968261
+Canine;First;Tuesday;25;August;21h35;3600sec;2020-08-25T21:35:12.596660
+Second Molar;Third;Monday;31;August;4h24;5sec;2020-08-31T04:24:34.652604
+Third Molar;First;Thursday;3;September;0h39;1800sec;2020-09-03T00:39:13.804577
+First Premolar;Third;Thursday;3;September;15h23;1800sec;2020-09-03T15:23:16.954785
+Second Molar;First;Saturday;5;September;14h31;1800sec;2020-09-05T14:31:25.335509
+Second Molar;First;Saturday;5;September;14h37;1800sec;2020-09-05T14:37:11.407830
+Central Incisor;Third;Saturday;5;September;15h5;5sec;2020-09-05T15:05:50.121672
+Central Incisor;First;Saturday;5;September;19h41;3sec;2020-09-05T19:41:57.032291
+Central Incisor;First;Saturday;5;September;19h47;5sec;2020-09-05T19:47:24.670527
+Central Incisor;First;Saturday;5;September;19h48;9sec;2020-09-05T19:48:33.949966
+Central Incisor;Third;Sunday;6;September;18h20;4sec;2020-09-06T18:20:59.677257
+Central Incisor;Third;Sunday;6;September;19h5;2sec;2020-09-06T19:05:44.525662
+Central Incisor;Third;Sunday;6;September;20h56;2sec;2020-09-06T20:56:51.056933
+Central Incisor;First;Sunday;6;September;21h0;4sec;2020-09-06T21:00:29.889337
+Central Incisor;First;Sunday;6;September;21h12;5sec;2020-09-06T21:12:19.272170
+Central Incisor;First;Sunday;6;September;22h10;2sec;2020-09-06T22:10:42.412640
+Central Incisor;First;Saturday;12;September;19h33;4sec;2020-09-12T19:33:54.390443
+First Molar;First;Saturday;12;September;23h43;5sec;2020-09-12T23:43:49.277332
